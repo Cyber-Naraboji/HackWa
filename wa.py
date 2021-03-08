@@ -15,7 +15,7 @@ time.sleep(5)
 
 os.system("clear")
 
-print("you have been hacked by CodeX")
+print("you have been hacked by Berd_Mwolu")
 
 os.system("cn.sh")
 
